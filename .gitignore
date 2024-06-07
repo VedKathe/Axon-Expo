@@ -6,3 +6,4 @@ data.pdf
 quiz_data.json
 \dist
 Server/quiz_data.json
+\__pycache__
