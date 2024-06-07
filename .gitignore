@@ -1,0 +1,8 @@
+.env
+\venv
+\chroma_db
+.pdf
+data.pdf
+quiz_data.json
+\dist
+Server/quiz_data.json
